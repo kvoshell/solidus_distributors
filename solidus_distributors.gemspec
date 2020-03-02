@@ -9,12 +9,12 @@ Gem::Specification.new do |spec|
   spec.email = 'jake@llt-group.com'
 
   spec.summary = 'A Solidus.io extension for managing product distributors.'
-  spec.homepage = 'https://github.com/lltgroup/solidus_distributors'
+  spec.homepage = 'https://github.com/kvoshell/solidus_distributors'
   spec.license = 'BSD-3-Clause'
 
   spec.metadata['homepage_uri'] = spec.homepage
-  spec.metadata['source_code_uri'] = 'https://github.com/lltgroup/solidus_distributors'
-  spec.metadata['changelog_uri'] = 'https://github.com/lltgroup/solidus_distributors/releases'
+  spec.metadata['source_code_uri'] = 'https://github.com/kvoshell/solidus_distributors'
+  spec.metadata['changelog_uri'] = 'https://github.com/kvoshell/solidus_distributors/releases'
 
   spec.required_ruby_version = Gem::Requirement.new('~> 2.4')
 
